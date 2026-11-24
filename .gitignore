@@ -1,0 +1,9 @@
+# local credentials & board config
+boot.py
+webrepl_cfg.py
+secrets.py
+
+# Test capture & Python cache
+test.jpg
+__pycache__/
+*.pyc
